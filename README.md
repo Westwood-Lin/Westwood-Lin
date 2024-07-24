@@ -1,14 +1,14 @@
 # Westwood-Lin
-<h1 align="center">Hi 👋, I'm Yalin Feng</h1>
+<h1 align="center">Hi there 👋, I'm Yalin Feng</h1>
 <h3 align="center">A graduate student & newly researcher from China, Nanjing University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westwood-lin&label=Profile%20views&color=0e75b6&style=flat" alt="westwood-lin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=westwood-lin" alt="westwood-lin" /></a> </p>
-
-- 🔭 I’m currently working on **Android Privacy**
+- 🔭 I’m currently working on **android privacy**
 
 - 🌱 I’m currently learning **nlp, llm, static analysis**
+
+- 👯 I’m looking to collaborate on **nlp & Privacy Policy processing**
 
 - 📫 How to reach me **yalinfeng@outlook.com**
 
