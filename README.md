@@ -9,6 +9,6 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westwood-lin&show_icons=true&locale=en" alt="westwood-lin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westwood-lin&show_icons=true&locale=en" alt="westwood-lin" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=westwood-lin&" alt="westwood-lin" /></p>
