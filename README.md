@@ -3,7 +3,7 @@
 <p align="left"> A Master Student from Nanjing University, supervised by Prof. Minxue Pan.</p>
 <p align="left"> I am interested in AI4SE, SE4AI, and also Security/Safety.</p>
 <p align="left"> Specially, App Analysis, SecCodeGen... </p> 
-<p align="left"> Email: **yalinfeng@outlook.com** or **yalinfeng@smail.nju.edu.cn**  </p> 
+<p align="left"> Email: yalinfeng@smail.nju.edu.cn or yalinfeng@outlook.com </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westwood-lin&label=Profile%20views&color=0e75b6&style=flat" alt="westwood-lin" /> </p>
 
