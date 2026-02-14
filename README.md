@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westwood-lin&label=Profile%20views&color=0e75b6&style=flat" alt="westwood-lin" /> </p>
 
-- 📫 How to reach me 
-
 <p align="left">
 </p>
 
